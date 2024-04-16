@@ -4,6 +4,8 @@ import "fmt"
 
 func main() {
 
+	Hello()
+
 }
 
 func Hello() {
